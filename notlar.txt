@@ -3,3 +3,4 @@ line 2
 LİNE 3
 selam dünya
 line4 geldi
+sıkıntılı line
